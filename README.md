@@ -43,9 +43,9 @@
   </div>
 
   <!-- Center: Title -->
-  <div style="font-size: 30px; font-weight: bold; text-align: center;">
+  <div style="font-size: 40px; font-weight: bold; text-align: center;">
     Sahar Parishani <br>
-    <span style="font-weight: normal;">Graduate Architect & Interior Designer</span>
+    <span style="font-size: 24px; font-weight: normal;">Graduate Architect & Interior Designer</span>
   </div>
 
   <!-- Right: Photo -->
