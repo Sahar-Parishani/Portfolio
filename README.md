@@ -43,9 +43,9 @@
   </div>
 
   <!-- Center: Title -->
-  <div style="font-size: 40px; font-weight: bold; text-align: center;">
+  <div style="font-size: 32px; font-weight: bold; text-align: center;">
     Sahar Parishani <br>
-    <span style="font-size: 24px; font-weight: normal;">Part 1 Architectural Graduate of CCAE</span>
+    <span style="font-size: 22px; font-weight: normal;">Part 1 Architectural Graduate of CCAE</span>
   </div>
 
   <!-- Right: Photo -->
