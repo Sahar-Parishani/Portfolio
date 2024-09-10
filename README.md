@@ -57,7 +57,7 @@
 <!-- Start of Tabs Section -->
 <div id="Portfolio" class="tabcontent">
   <h2>Portfolio</h2>
-  <p>Here is my complete portfolio. Scroll down to view all pages:</p>
+  <p>Here is my portfolio. Scroll down to view all pages:</p>
   <iframe src="https://github.com/Sahar-Parishani/Portfolio/raw/main/Sahar_Parishani_Portfolio.pdf" width="100%" height="600px"></iframe>
 </div>
 
