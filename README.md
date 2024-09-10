@@ -87,7 +87,7 @@
     <li>Developed and produced detailed technical drawings and construction documents, ensuring compliance with building regulations and standards.</li>
     <li>Assisted in the design and detailing of building projects, focusing on practical construction methods under the supervision of senior Technologists and Architects.</li>
     <li>Conducted site visits to assess construction progress and ensure alignment with technical drawings and project specifications.</li>
-    <li>Supported the preparation of architectural plans and designs for various building projects.</li>
+    <li>Supported the preparation of architectural plans and designs for different building projects.</li>
   </ul>
 
   <h3>Education</h3>
