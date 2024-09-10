@@ -58,7 +58,7 @@
 <div id="Portfolio" class="tabcontent">
   <h2>Portfolio</h2>
   <p>Here is my portfolio. Click the link below to download it:</p>
-  <a href="https://github.com/Sahar-Parishani/Portfolio/raw/main/Sahar_Parishani_Portfolio.pdf" target="_blank" download>Download My Portfolio PDF</a>
+  <a href="https://github.com/Sahar-Parishani/Portfolio/raw/main/Sahar-Parishani_Portfolio.pdf" target="_blank" download>Download My Portfolio PDF</a>
 </div>
 
 <div id="Resume" class="tabcontent">
