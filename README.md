@@ -59,6 +59,12 @@
   <h2>Portfolio</h2>
   <p>Here is my portfolio. Click the link below to download it:</p>
   <a href="https://github.com/Sahar-Parishani/Portfolio/raw/main/Sahar-Parishani_Portfolio.pdf" target="_blank" download>Download My Portfolio PDF</a>
+
+  <h2>Contact</h2>
+  <ul>
+    <li><a href="https://www.linkedin.com/in/sahar-parishani/" target="_blank">LinkedIn</a></li>
+    <li>Email: <a href="mailto:parishan.architect@gmail.com">parishan.architect@gmail.com</a></li>
+  </ul>
 </div>
 
 <div id="Resume" class="tabcontent">
