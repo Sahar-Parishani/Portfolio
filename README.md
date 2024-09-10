@@ -57,8 +57,8 @@
 <!-- Start of Tabs Section -->
 <div id="Portfolio" class="tabcontent">
   <h2>Portfolio</h2>
-  <p>Here is my portfolio. You can view it directly below:</p>
-  <iframe src="https://github.com/Sahar-Parishani/Portfolio/raw/main/Sahar_Parishani_Portfolio.pdf" width="100%" height="800px" style="border: none;" scrolling="auto"></iframe>
+  <p>Here is my portfolio. Click the link below to download it:</p>
+  <a href="https://github.com/Sahar-Parishani/Portfolio/raw/main/Sahar_Parishani_Portfolio.pdf" target="_blank" download>Download My Portfolio PDF</a>
 </div>
 
 <div id="Resume" class="tabcontent">
