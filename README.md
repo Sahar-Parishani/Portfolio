@@ -45,7 +45,7 @@
   <!-- Center: Title -->
   <div style="font-size: 40px; font-weight: bold; text-align: center;">
     Sahar Parishani <br>
-    <span style="font-size: 24px; font-weight: normal;">Graduate Architect & Interior Designer</span>
+    <span style="font-size: 24px; font-weight: normal;">Part 1 Architectural Graduate of CCAE</span>
   </div>
 
   <!-- Right: Photo -->
@@ -57,7 +57,8 @@
 <!-- Start of Tabs Section -->
 <div id="Portfolio" class="tabcontent">
   <h2>Portfolio</h2>
-  <p>Here you can showcase your projects and accomplishments. Add your work, images, and descriptions related to your portfolio here.</p>
+  <p>Here is my complete portfolio. Scroll down to view all pages:</p>
+  <iframe src="https://github.com/Sahar-Parishani/Portfolio/raw/main/Sahar_Parishani_Portfolio.pdf" width="100%" height="600px"></iframe>
 </div>
 
 <div id="Resume" class="tabcontent">
